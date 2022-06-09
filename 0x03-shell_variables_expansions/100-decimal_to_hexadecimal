@@ -1,2 +1,2 @@
 #!/bin/bash
-prillntf %xn $DECIMAL
+printf '%x\n' $DECIMAL
